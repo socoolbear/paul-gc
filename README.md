@@ -1,2 +1,2 @@
 # paul-gc
-simple garbege collector
+simple garbage collector
